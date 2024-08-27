@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina!</h1>
 <h3 align="center">A curious MSc Data Science student</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
