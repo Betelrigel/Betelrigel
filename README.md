@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  I’m passionate about machine learning, data visualization, and all things tech! From building chatbots that talk back to you to predicting health conditions with AI, I’m all about creating solutions that matter.
-</p>
-
+  I’m passionate about machine learning, data visualization, and all things tech!
 <h3 align="center">Skills That Power My Journey:</h3>
 <p align="center">
   <code>Python</code> | <code>C++</code> | <code>SQL</code> | <code>R</code> | <code>MongoDB</code> | <code>Neo4j</code> | <code>Power BI</code> | <code>Tableau</code> | <code>Langchain</code> | <code>LLMs</code> | <code>HTML/CSS</code> | <code>Java</code>
