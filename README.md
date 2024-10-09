@@ -29,9 +29,7 @@
   <a href="https://linkedin.com/in/marina-ts-446939212" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Marina's LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/Betelrigel" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Marina's GitHub" height="30" width="40" />
-  </a>
+
 </p>
 <h3 align="center"> Fun Fact!</h3>
 <p align="center">
