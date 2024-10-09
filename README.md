@@ -1,4 +1,4 @@
-<h1>Hey there! 👋 I'm Marina!</h1>
+<h1 align="center">Hey there! 👋 I'm Marina!</h1>
 <h3 align="left">Data Science Explorer | Passionate Problem Solver | AI Enthusiast</h3>
 
 <p>
