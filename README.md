@@ -33,6 +33,10 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Marina's GitHub" height="30" width="40" />
   </a>
 </p>
+<h3 align="center"> Fun Fact!</h3>
+<p align="center">
+  When I’m not crunching numbers or training models, you’ll find me doodling ✏️
+</p>
 
 <p align="center">
   Reach out for collaboration, brainstorming, or just to chat about AI, tech, and everything in between!
