@@ -8,6 +8,10 @@
 <p>
   I’m passionate about LLMs, Deep Learning, Machine Learning, Data Visualization, and all things tech!
 </p>
+<p>
+  <h3>Currently I'm learning about</h3>
+  Multimodal RAG, Machine Learning for Earth Observation
+</p>
 
 <h3 align="left">Skills That Power My Journey:</h3>
 <p>
