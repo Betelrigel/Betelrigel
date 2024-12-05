@@ -13,12 +13,12 @@
   Multimodal RAG, Machine Learning for Earth Observation
 </p>
 
-<h3 align="left">Skills That Power My Journey:</h3>
+<h3 align="left">Few of my skills:</h3>
 <p>
   <code>Python</code> | <code>C++</code> | <code>SQL</code> | <code>R</code> | <code>MongoDB</code> | <code>Neo4j</code> | <code>Power BI</code> | <code>Tableau</code> | <code>Langchain</code> | <code>LLMs</code> | <code>HTML/CSS</code> | <code>Java</code>
 </p>
 
-<h3 align="left">Certified Knowledge Explorer:</h3>
+<h3 align="left">Some certifications I have done</h3>
 <p>
   Build a Neo4j-Backed Chatbot using Python | K-Means Clustering in Python | Managing Big Data with MySQL | Data Visualisation for Business Insights | Power BI in Data Analytics
 </p>
