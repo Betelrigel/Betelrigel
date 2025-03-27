@@ -2,10 +2,7 @@
 <h3 align="left">Data Science Explorer | Passionate Problem Solver | AI Enthusiast</h3>
 
 <p>
-  I’m currently growing my data science expertise as an MSc student at <b>Christ University, Bangalore</b>, with a background in Physics and a love for diving deep into data. My mission? To uncover hidden insights and make data-driven magic happen!
-</p>
-
-<p>
+  I’m currently growing my data science expertise as an MSc student at <b>Christ University, Bangalore</b>, with a background in Physics and a love for diving deep into data.
   I’m passionate about LLMs, Deep Learning, Machine Learning, Data Visualization, and all things tech!
 </p>
 <p>
